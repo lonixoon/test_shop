@@ -1,0 +1,448 @@
+[2017-12-18 12:04:57] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'test_shop.modManagerLog.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2017-12-18 12:08:44] (ERROR @ C:\www\OSPanel\domains\test_shop\core\model\modx\modcachemanager.class.php : 394) Error caching action map mgr/actions
+[2017-12-18 12:08:59] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:08:59] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:08:59] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:08:59] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:00] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:00] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:01] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:01] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:02] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:02] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:03] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:03] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:04] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:04] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:05] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:05] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:06] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:06] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:07] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:07] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:08] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:08] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:09] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:09] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:10] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:10] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:11] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:11] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:12] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:12] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:13] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:13] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:14] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:14] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:15] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:15] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:16] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:16] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:17] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:17] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:18] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:18] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:19] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:19] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:20] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:20] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:21] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:21] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:22] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:22] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:23] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:23] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:24] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:24] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:25] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:25] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:26] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:26] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:27] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:27] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:28] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:28] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:29] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:29] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:30] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:30] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:31] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:31] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:32] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:32] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:33] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:33] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:34] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:34] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:35] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:35] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:36] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:36] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:37] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:37] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:38] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:38] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:39] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:39] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:40] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:40] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:41] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:41] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:42] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:42] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:43] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:43] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:44] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:44] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:45] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:45] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:46] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:46] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:47] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:47] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:48] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:48] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:49] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:49] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:50] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:50] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:51] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:51] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:52] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:52] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:53] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:53] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:54] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:54] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:55] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:55] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:56] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:56] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:57] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:57] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:58] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:58] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:09:59] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:09:59] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:10:00] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:10:00] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:10:01] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:10:01] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:10:02] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:10:02] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:10:03] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:10:03] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:10:04] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:10:04] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:10:05] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:10:05] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:10:07] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:10:07] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:10:08] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:10:08] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:10:09] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:10:09] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:10:10] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:10:10] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:10:12] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:10:12] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:10:13] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:10:13] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:10:15] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:10:15] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:10:16] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:10:16] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:10:17] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:10:17] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:10:18] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:10:18] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:10:19] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:10:19] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:10:20] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:10:20] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:10:21] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:10:21] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:10:36] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:10:36] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:10:38] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:10:38] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:10:40] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:10:40] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:10:45] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:10:45] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:11:20] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdoFetch from pdofetch.
+[2017-12-18 12:11:20] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdoFetch, from path 
+[2017-12-18 12:11:36] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:11:36] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:11:36] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service miniShop2, instance of class miniShop2, from path 
+[2017-12-18 12:11:37] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:11:37] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:11:37] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:11:37] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:11:37] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service miniShop2, instance of class miniShop2, from path 
+[2017-12-18 12:11:37] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service miniShop2, instance of class miniShop2, from path 
+[2017-12-18 12:11:37] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:11:37] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:11:37] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:11:37] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:11:37] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service miniShop2, instance of class miniShop2, from path 
+[2017-12-18 12:11:37] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:11:37] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:11:37] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service miniShop2, instance of class miniShop2, from path 
+[2017-12-18 12:11:37] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:11:37] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:11:37] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:11:37] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:11:37] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:11:37] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:11:37] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:11:37] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service miniShop2, instance of class miniShop2, from path 
+[2017-12-18 12:11:37] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service miniShop2, instance of class miniShop2, from path 
+[2017-12-18 12:11:38] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:11:38] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service miniShop2, instance of class miniShop2, from path 
+[2017-12-18 12:11:38] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:11:38] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:11:38] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service miniShop2, instance of class miniShop2, from path 
+[2017-12-18 12:11:38] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:11:38] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:11:38] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service miniShop2, instance of class miniShop2, from path 
+[2017-12-18 12:11:39] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:11:39] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:11:39] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:11:39] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service miniShop2, instance of class miniShop2, from path 
+[2017-12-18 12:11:45] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:11:45] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:11:45] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service miniShop2, instance of class miniShop2, from path 
+[2017-12-18 12:11:46] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:11:46] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:11:46] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service miniShop2, instance of class miniShop2, from path 
+[2017-12-18 12:11:46] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:11:46] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:11:46] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:11:46] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service miniShop2, instance of class miniShop2, from path 
+[2017-12-18 12:11:46] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:11:46] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service miniShop2, instance of class miniShop2, from path 
+[2017-12-18 12:11:46] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:11:46] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:11:46] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:11:46] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:11:46] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:11:46] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service miniShop2, instance of class miniShop2, from path 
+[2017-12-18 12:11:46] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service miniShop2, instance of class miniShop2, from path 
+[2017-12-18 12:11:47] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:11:47] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service miniShop2, instance of class miniShop2, from path 
+[2017-12-18 12:11:47] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:11:47] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:11:47] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service miniShop2, instance of class miniShop2, from path 
+[2017-12-18 12:11:47] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'test_shop.modManagerLog.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2017-12-18 12:11:47] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:11:47] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:11:47] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service miniShop2, instance of class miniShop2, from path 
+[2017-12-18 12:11:47] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:11:47] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:11:47] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:11:47] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service miniShop2, instance of class miniShop2, from path 
+[2017-12-18 12:11:47] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:11:47] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:11:47] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service miniShop2, instance of class miniShop2, from path 
+[2017-12-18 12:11:48] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:11:48] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:11:48] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service miniShop2, instance of class miniShop2, from path 
+[2017-12-18 12:11:50] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:11:50] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:11:50] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service miniShop2, instance of class miniShop2, from path 
+[2017-12-18 12:11:50] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:11:50] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:11:50] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:11:50] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service miniShop2, instance of class miniShop2, from path 
+[2017-12-18 12:11:50] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:11:50] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service miniShop2, instance of class miniShop2, from path 
+[2017-12-18 12:11:51] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:11:51] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:11:51] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:11:51] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:11:51] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service miniShop2, instance of class miniShop2, from path 
+[2017-12-18 12:11:51] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:11:51] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:11:51] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:11:51] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service miniShop2, instance of class miniShop2, from path 
+[2017-12-18 12:11:51] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:11:51] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service miniShop2, instance of class miniShop2, from path 
+[2017-12-18 12:11:51] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:11:51] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:11:51] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service miniShop2, instance of class miniShop2, from path 
+[2017-12-18 12:11:51] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:11:51] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service miniShop2, instance of class miniShop2, from path 
+[2017-12-18 12:11:51] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:11:51] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service miniShop2, instance of class miniShop2, from path 
+[2017-12-18 12:11:51] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:11:51] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:11:51] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service miniShop2, instance of class miniShop2, from path 
+[2017-12-18 12:11:52] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:11:52] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:11:52] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service miniShop2, instance of class miniShop2, from path 
+[2017-12-18 12:11:59] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:11:59] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:11:59] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:11:59] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service miniShop2, instance of class miniShop2, from path 
+[2017-12-18 12:11:59] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:11:59] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service miniShop2, instance of class miniShop2, from path 
+[2017-12-18 12:12:00] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:12:00] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:12:00] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service miniShop2, instance of class miniShop2, from path 
+[2017-12-18 12:12:01] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:12:01] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:12:01] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service miniShop2, instance of class miniShop2, from path 
+[2017-12-18 12:12:02] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:12:02] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:12:02] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service miniShop2, instance of class miniShop2, from path 
+[2017-12-18 12:12:03] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: C:/www/OSPanel/domains/test_shop/core/components/minishop2/model/
+[2017-12-18 12:12:03] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: miniShop2 from minishop2.
+[2017-12-18 12:12:03] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service miniShop2, instance of class miniShop2, from path 
+[2017-12-18 12:12:03] (ERROR @ C:\www\OSPanel\domains\test_shop\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2017-12-18 12:17:14] (ERROR @ C:\www\OSPanel\domains\test_shop\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/clientconfig/default
+[2017-12-18 12:17:14] (ERROR @ C:\www\OSPanel\domains\test_shop\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/minishop2/default
+[2017-12-18 12:17:14] (ERROR @ C:\www\OSPanel\domains\test_shop\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/default
+[2017-12-18 12:17:15] (ERROR @ C:\www\OSPanel\domains\test_shop\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/namespace
+[2017-12-18 12:28:41] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\om\xpdoobject.class.php : 1452) Error HY000 executing statement:
+INSERT INTO `modx_ms2_products` (`id`, `article`, `price`, `old_price`, `weight`, `vendor`, `made_in`, `new`, `popular`, `favorite`, `tags`, `color`, `size`, `source`) VALUES (6, '547857', '1000', '1500', '', 0, '', 0, 0, 0, '[\"\"]', '[\"\"]', '[\"\"]', 2)
+Array
+(
+    [0] => HY000
+    [1] => 1366
+    [2] => Incorrect decimal value: '' for column 'weight' at row 1
+)
+
+[2017-12-18 12:28:42] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\om\xpdoobject.class.php : 1452) Error HY000 executing statement:
+INSERT INTO `modx_ms2_products` (`id`, `article`, `price`, `old_price`, `weight`, `vendor`, `made_in`, `new`, `popular`, `favorite`, `tags`, `color`, `size`, `source`) VALUES (6, '547857', '1000', '1500', '', 0, '', 0, 0, 0, '[\"\"]', '[\"\"]', '[\"\"]', 2)
+Array
+(
+    [0] => HY000
+    [1] => 1366
+    [2] => Incorrect decimal value: '' for column 'weight' at row 1
+)
+
+[2017-12-18 12:28:42] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\om\xpdoobject.class.php : 1452) Error HY000 executing statement:
+INSERT INTO `modx_ms2_products` (`id`, `article`, `price`, `old_price`, `weight`, `vendor`, `made_in`, `new`, `popular`, `favorite`, `tags`, `color`, `size`, `source`) VALUES (6, '547857', '1000', '1500', '', 0, '', 0, 0, 0, '[\"\"]', '[\"\"]', '[\"\"]', 2)
+Array
+(
+    [0] => HY000
+    [1] => 1366
+    [2] => Incorrect decimal value: '' for column 'weight' at row 1
+)
+
+[2017-12-18 12:28:42] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\om\xpdoobject.class.php : 1452) Error HY000 executing statement:
+INSERT INTO `modx_ms2_products` (`id`, `article`, `price`, `old_price`, `weight`, `vendor`, `made_in`, `new`, `popular`, `favorite`, `tags`, `color`, `size`, `source`) VALUES (6, '547857', '1000', '1500', '', 0, '', 0, 0, 0, '[\"\"]', '[\"\"]', '[\"\"]', 2)
+Array
+(
+    [0] => HY000
+    [1] => 1366
+    [2] => Incorrect decimal value: '' for column 'weight' at row 1
+)
+
+[2017-12-18 12:28:42] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\om\xpdoobject.class.php : 1452) Error HY000 executing statement:
+INSERT INTO `modx_ms2_products` (`id`, `article`, `price`, `old_price`, `weight`, `vendor`, `made_in`, `new`, `popular`, `favorite`, `tags`, `color`, `size`, `source`) VALUES (6, '547857', '1000', '1500', '', 0, '', 0, 0, 0, '[\"\"]', '[\"\"]', '[\"\"]', 2)
+Array
+(
+    [0] => HY000
+    [1] => 1366
+    [2] => Incorrect decimal value: '' for column 'weight' at row 1
+)
+
+[2017-12-18 12:38:20] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\om\xpdoobject.class.php : 1452) Error HY000 executing statement:
+INSERT INTO `modx_ms2_products` (`id`, `article`, `price`, `old_price`, `weight`, `vendor`, `made_in`, `new`, `popular`, `favorite`, `tags`, `color`, `size`, `source`) VALUES (10, '', '', '', '', 0, '', 0, 0, 0, '[\"undefined\"]', '[\"undefined\"]', '[\"undefined\"]', 2)
+Array
+(
+    [0] => HY000
+    [1] => 1366
+    [2] => Incorrect decimal value: '' for column 'price' at row 1
+)
+
+[2017-12-18 12:38:20] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\om\xpdoobject.class.php : 1452) Error HY000 executing statement:
+INSERT INTO `modx_ms2_products` (`id`, `article`, `price`, `old_price`, `weight`, `vendor`, `made_in`, `new`, `popular`, `favorite`, `tags`, `color`, `size`, `source`) VALUES (10, '', '', '', '', 0, '', 0, 0, 0, '[\"undefined\"]', '[\"undefined\"]', '[\"undefined\"]', 2)
+Array
+(
+    [0] => HY000
+    [1] => 1366
+    [2] => Incorrect decimal value: '' for column 'price' at row 1
+)
+
+[2017-12-18 12:38:20] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\om\xpdoobject.class.php : 1452) Error HY000 executing statement:
+INSERT INTO `modx_ms2_products` (`id`, `article`, `price`, `old_price`, `weight`, `vendor`, `made_in`, `new`, `popular`, `favorite`, `tags`, `color`, `size`, `source`) VALUES (10, '', '', '', '', 0, '', 0, 0, 0, '[\"undefined\"]', '[\"undefined\"]', '[\"undefined\"]', 2)
+Array
+(
+    [0] => HY000
+    [1] => 1366
+    [2] => Incorrect decimal value: '' for column 'price' at row 1
+)
+
+[2017-12-18 12:38:20] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\om\xpdoobject.class.php : 1452) Error HY000 executing statement:
+INSERT INTO `modx_ms2_products` (`id`, `article`, `price`, `old_price`, `weight`, `vendor`, `made_in`, `new`, `popular`, `favorite`, `tags`, `color`, `size`, `source`) VALUES (10, '', '', '', '', 0, '', 0, 0, 0, '[\"undefined\"]', '[\"undefined\"]', '[\"undefined\"]', 2)
+Array
+(
+    [0] => HY000
+    [1] => 1366
+    [2] => Incorrect decimal value: '' for column 'price' at row 1
+)
+
+[2017-12-18 12:38:20] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\om\xpdoobject.class.php : 1452) Error HY000 executing statement:
+INSERT INTO `modx_ms2_products` (`id`, `article`, `price`, `old_price`, `weight`, `vendor`, `made_in`, `new`, `popular`, `favorite`, `tags`, `color`, `size`, `source`) VALUES (10, '', '', '', '', 0, '', 0, 0, 0, '[\"undefined\"]', '[\"undefined\"]', '[\"undefined\"]', 2)
+Array
+(
+    [0] => HY000
+    [1] => 1366
+    [2] => Incorrect decimal value: '' for column 'price' at row 1
+)
+
+[2017-12-18 12:45:43] (ERROR @ C:\www\OSPanel\domains\test_shop\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/clientconfig/default
+[2017-12-18 12:45:43] (ERROR @ C:\www\OSPanel\domains\test_shop\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/minishop2/default
+[2017-12-18 12:45:43] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdofetch from pdotools.pdofetch.
+[2017-12-18 12:45:43] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdotools.pdofetch, from path 
+[2017-12-19 06:00:53] (ERROR @ C:\www\OSPanel\domains\test_shop\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/resource
+[2017-12-19 06:26:46] (ERROR @ C:\www\OSPanel\domains\test_shop\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/components/themebootstrap/css/bootstrap.min.css
+[2017-12-19 06:26:46] (ERROR @ C:\www\OSPanel\domains\test_shop\core\components\minifyx\model\minifyx\minifyx.class.php : 215) [MinifyX] Could not save cache file C:/www/OSPanel/domains/test_shop/assets/components/minifyx/cache/styles_da39a3ee5e.min.css
+[2017-12-19 10:13:27] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 644) Could not load class: pdofetch from pdotools.pdofetch.
+[2017-12-19 10:13:27] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\xpdo.class.php : 1247) Problem getting service pdoFetch, instance of class pdotools.pdofetch, from path 
+[2017-12-19 10:23:02] (ERROR @ C:\www\OSPanel\domains\test_shop\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/clientconfig/default
+[2017-12-19 10:23:02] (ERROR @ C:\www\OSPanel\domains\test_shop\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/minishop2/default
+[2017-12-19 10:24:10] (ERROR @ C:\www\OSPanel\domains\test_shop\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/minishop2/default
+[2017-12-19 10:24:10] (ERROR @ C:\www\OSPanel\domains\test_shop\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2017-12-19 10:36:05] (ERROR @ C:\www\OSPanel\domains\test_shop\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'test_shop.modManagerLog.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2017-12-19 10:54:28] (ERROR @ C:\www\OSPanel\domains\test_shop\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/minishop2/default
+[2017-12-19 10:54:28] (ERROR @ C:\www\OSPanel\domains\test_shop\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/default
+[2017-12-19 10:54:39] (ERROR @ C:\www\OSPanel\domains\test_shop\core\model\modx\modcachemanager.class.php : 509) Error caching script elements/modplugin/5
+[2017-12-19 10:54:39] (ERROR @ C:\www\OSPanel\domains\test_shop\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/minishop2/default
+[2017-12-19 10:54:39] (ERROR @ C:\www\OSPanel\domains\test_shop\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/default
+[2017-12-19 10:55:26] (ERROR @ C:\www\OSPanel\domains\test_shop\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/clientconfig/default
+[2017-12-19 10:55:26] (ERROR @ C:\www\OSPanel\domains\test_shop\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/minishop2/default
+[2017-12-19 10:55:26] (ERROR @ C:\www\OSPanel\domains\test_shop\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2017-12-19 10:55:50] (ERROR @ C:\www\OSPanel\domains\test_shop\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/minishop2/default
+[2017-12-19 10:56:28] (ERROR @ C:\www\OSPanel\domains\test_shop\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2017-12-19 11:16:40] (ERROR @ C:\www\OSPanel\domains\test_shop\core\model\modx\modcachemanager.class.php : 509) Error caching script elements/modplugin/3
+[2017-12-19 11:16:59] (ERROR @ C:\www\OSPanel\domains\test_shop\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2017-12-19 11:17:53] (ERROR @ C:\www\OSPanel\domains\test_shop\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/minishop2/default
+[2017-12-19 11:17:53] (ERROR @ C:\www\OSPanel\domains\test_shop\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/default
+[2017-12-19 11:18:51] (ERROR @ C:\www\OSPanel\domains\test_shop\core\model\modx\modcachemanager.class.php : 509) Error caching script elements/modplugin/6
+[2017-12-19 11:19:08] (ERROR @ C:\www\OSPanel\domains\test_shop\core\model\modx\modcachemanager.class.php : 509) Error caching script elements/modplugin/3
+[2017-12-19 11:19:08] (ERROR @ C:\www\OSPanel\domains\test_shop\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
